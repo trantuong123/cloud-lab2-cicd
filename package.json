@@ -1,0 +1,9 @@
+{
+  "name": "cloud-lab2-cicd",
+  "version": "1.0.0",
+  "description": "CI/CD Pipeline với Vercel",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  }
+}
